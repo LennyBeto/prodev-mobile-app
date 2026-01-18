@@ -15,7 +15,7 @@ export default function Index() {
       <SafeAreaView style={{ flex: 1 }}>
         {/* Other components go here */}
         <ImageBackground
-          source={require("@/assets/images/android-icon-background.png")}
+          source={require("@/assets/images/background-image.png")}
           style={styles.background}
           resizeMode="cover"
         >
